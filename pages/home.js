@@ -62,7 +62,7 @@ function home({ providers }) {
             </div>
 
             <div className="intent">
-              <h2 className="text-xl">FInd a person you know</h2>
+              <h2 className="text-xl">Find a person you know</h2>
               <ArrowForwardIosRoundedIcon className="text-gray-700" />
             </div>
 
@@ -73,7 +73,7 @@ function home({ providers }) {
           </div>
         </div>
 
-        <div className="relative xl:absolute w-80 h-80 xl:w-[650px] xl:h-[650px] top-14 right-5">
+        <div className="relative xl:absolute w-80 h-80 xl:w-[650px] xl:h-[650px] top-40 right-5">
           <Image
             src="https://media.licdn.com/media//AAYQAgSrAAgAAQAAAAAAADCLr3coQt8AQiyj4giyWxfjsg.svg"
             layout="fill"
